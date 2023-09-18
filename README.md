@@ -1,3 +1,4 @@
-# CPgenes
+# Conformal Prediction in Genomics
 
-# Introduction
+# Introduction to Conformal Prediction (CP)
+Conformal prediction is a 
