@@ -13,7 +13,7 @@ Trunsductive Conformal Prediction (TCP)
 1. Download from the data file the data for each of the tree applications
    * For the RA download the: RAgenes (contains the genes expression profiles) and the RAtarget (contains the target variable (Responder or Non Responder) for every patient)
    * For the DLBCL download the: DLBCLgenes (contains the gene expression profiles) and the DLBCLtarget (contains the subtypes of DLBCL (ABC, MHG, GCB and UNC=unclassified patients)
-   * For the Afatinib download the: Afatinib (contains the gene expression profiles) and the Afatinibtarget (contains the half maximal inhibitory concentration, IC50, of afatinib for every patient)
+   * For the Afatinib download the: Afatinib (contains the gene expression profiles) and the AfatinibTarget (contains the half maximal inhibitory concentration, IC50, of afatinib for every patient)
 3. Open the file with the project you want to run and upload the previous csv files from ypur directory
 4. Run the code cells and take the Conformal Prediction Regions.
 
