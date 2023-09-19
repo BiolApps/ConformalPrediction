@@ -9,7 +9,7 @@ Trunsductive Conformal Prediction (TCP)
 * Multi-class classification problem for the classification of patients according to their gene expression profile, in the different transcriptional subtypes of diffuse large B-cell lymphoma (DLBCL), using Inductive Conformal Prediction (ICP)
 * Regression problem for patient response to the anticancer drug (Afatinib) according to cancer cell gene expressions using Inductive Conformal Prediction (ICP)
 
-#Step by step discription 
+# Step by step discription 
 1. Download from the data file the data for each of the tree applications
    * For the RA download the: RAgenes (contains the genes expression profiles) and the RAtarget (contains the target variable (Responder or Non Responder) for every patient)
    * For the DLBCL download the: DLBCLgenes (contains the gene expression profiles) and the DLBCLtarget (contains the subtypes of DLBCL (ABC, MHG, GCB and UNC=unclassified patients)
